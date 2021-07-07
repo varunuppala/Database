@@ -42,6 +42,6 @@ if __name__ == '__main__':
         statement = input("enter your query:")
         lst = parse_statement(statement)
 
-    print("Bye Bye!!")
+    print("Bye Bye!")
 
 
